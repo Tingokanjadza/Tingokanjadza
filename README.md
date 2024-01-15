@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@kanjadzatingo](https://medium.com/@kanjadzatingo)
 
-- 💬 Ask me about **Artificial Intelligence and**
+- 💬 Ask me about **Artificial Intelligence and Cybersecurity**
 
 - 📫 How to reach me **kanjadzatingo@gmail.com**
 
