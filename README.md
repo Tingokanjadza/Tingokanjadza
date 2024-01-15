@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tingo</h1>
 <h3 align="center">An Information Technology and Cybersecurity Student In Canada</h3>
-<img align ="right" alt="coding" width="400" src = "https://www.shutterstock.com/shutterstock/videos/1107399815/thumb/1.jpg?ip=x480">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tingokanjadza&label=Profile%20views&color=0e75b6&style=flat" alt="tingokanjadza" /> </p>
 
