@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Tingo</h1>
-<h3 align="center">An Information Technology and Cybersecurity Student In Canada</h3>
+<h3 align="center">A 4th Year IT Student & IT Support Specialist in Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tingokanjadza&label=Profile%20views&color=0e75b6&style=flat" alt="tingokanjadza" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tingokanjadza" alt="tingokanjadza" /></a> </p>
 
-- 🔭 I’m currently working on **Discord Bot**
+- 🔭 I’m currently working on **PowerShell Scripts for IT Automation & M365 Hardening**
+  
+- 🌱 I’m currently learning **Microsoft 365 Security & Compliance and Advanced IT Support Strategies**
 
-- 🌱 I’m currently learning **C# for Indie Game Dev and Python for Data Science**
+- 👯 I’m looking to collaborate on **IT Support and Cybersecurity Projects**
 
-- 👯 I’m looking to collaborate on **Game Dev Projects**
+- 🤝 I’m looking for help with **PowerShell, CMD, and Windows Server Administration**
 
-- 🤝 I’m looking for help with **C# and Game Devin Unity Engine**
+- 📝 I regularly write about IT topics on [Medium](https://medium.com/@kanjadzatingo)
 
-- 📝 I regularly write articles on [https://medium.com/@kanjadzatingo](https://medium.com/@kanjadzatingo)
-
-- 💬 Ask me about **Artificial Intelligence and Cybersecurity**
+- 💬 Ask me about **IT Support, System Administration, and IT Security**
 
 - 📫 How to reach me **kanjadzatingo@gmail.com**
 
@@ -26,7 +26,20 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/microsoft-365/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_365_logo.svg" alt="m365" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Windows_Server_logo.png" alt="windows server" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="40" height="40"/> </a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tingokanjadza&show_icons=true&locale=en&layout=compact" alt="tingokanjadza" /></p>
 
